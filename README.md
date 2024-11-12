@@ -5,7 +5,7 @@ JLU软件工程卓班大作业
 
 | 模块 |                           模块地址                           |
 | :--: | :----------------------------------------------------------: |
-| 前端 |    https://github.com/RelaxDegree/Business_Process_System    |
+| 前端 |    https://github.com/FY-Rzz/Business_Process_System         |
 | 后端 | https://github.com/XuanchenLi/business_management_system_backend |
 
 ## Project setup
